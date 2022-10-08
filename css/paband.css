@@ -1,0 +1,46 @@
+/*/Reset===========*/
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.mainHeader {
+    width: 364px;
+    height: 113px;
+    padding-left: 32px;
+    padding-top: 32px;
+    padding-right: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contHeder {
+
+
+    align-content: flex-end;
+}
+
+.icon {
+    height: 198px;
+    width: 36px;
+}
+
+.paBnav {
+    margin: 0;
+    height: 22px;
+    width: 24px;
+
+}
