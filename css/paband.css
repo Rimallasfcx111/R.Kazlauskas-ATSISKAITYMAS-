@@ -23,7 +23,7 @@ img {
 }
 
 .mainHeader {
-    width: 264px;
+    width: 420px;
     height: 100px;
     padding-left: 32px;
     padding-top: 27px;
@@ -53,7 +53,7 @@ img {
     margin: 0;
     height: 100%;
     width: 100%;
-    padding-top: 2px;
+    padding-top: 8px;
     /* height: 22px;
     width: 24px;*/
 
